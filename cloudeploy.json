@@ -1,0 +1,10 @@
+{
+	"name": "Covidwatch",
+	"image": "node:12",
+	"maintainer": "Daniel Uhm (danieluhm2004@gmail.com)",
+	"ports": [3000],
+	"scripts": {
+		"start": "yarn start",
+		"build": "yarn && tsc"
+	}
+}
