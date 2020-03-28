@@ -1,5 +1,5 @@
 {
-	"name": "Covidwatch",
+	"name": "covidwatch",
 	"image": "node:12",
 	"maintainer": "Daniel Uhm (danieluhm2004@gmail.com)",
 	"ports": [3000],
